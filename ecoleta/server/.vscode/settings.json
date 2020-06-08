@@ -1,0 +1,9 @@
+{
+    "material-icon-theme.folders.associantions":{
+        "infra" : "app",
+        "entities" : "class",
+        "schemas" : "class",
+        "modules" : "components",
+        "migrations" : "tools"
+    }
+}
